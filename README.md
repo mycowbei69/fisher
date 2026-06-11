@@ -8,7 +8,7 @@
 ## 1 海洋氣象觀測中心
 
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="1.png" />
+<img src="1.png" />
 </div>
 
 
