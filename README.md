@@ -3,11 +3,14 @@
 <img width="1200" height="475" alt="GHBanner" src="Gemini_Generated_Image_gy2mxsgy2mxsgy2m.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# 系統功能
 
-This contains everything you need to run your app locally.
+## 1 海洋氣象觀測中心
 
-View your app in AI Studio: https://ai.studio/apps/f8cc6eaa-f4db-4c92-8677-8624c359ecf4
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="1.png" />
+</div>
+
 
 ## Run Locally
 
