@@ -1,0 +1,6 @@
+{
+  "name": "智慧海釣與海洋氣象",
+  "description": "基於雲端AI及氣象觀測之最佳海釣推薦、釣點導航、安全地理圍欄、離線漁獲與氣象紀錄智慧平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
